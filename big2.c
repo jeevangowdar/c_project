@@ -1,4 +1,4 @@
-// C program to find the greatest of two numbers
+// C program to find the biggest of two numbers
 
 #include<stdio.h>
 int main()
